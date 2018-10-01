@@ -1,0 +1,46 @@
+body {
+	background-color: #0000FF;
+}
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+.text {
+	color: #631666;
+	font-style: oblique;
+	border: 2px solid #631666;
+}
+.tilt {
+	font-style: italic;
+}
+.trait {
+	text-decoration: underline;
+	color: darkgreen;
+}
+.strikeout {
+	text-decoration: line-through;
+	color: orchid;
+}
+.red {
+	color: #F08080;
+}
+.darkgreen {
+	color: #006400;
+}
+.navy {
+	color:  #000080;
+}
+.blueviolet {
+	color: #8A2BE2;
+}
+.orchid {
+	color: #C71585;
+}
+.layer2 {
+  position: fixed;
+  right: 15px;
+  top: 400px;
+  background: #DDA0DD;
+  }
+.crimson {
+	color: #DC143C;
+}
